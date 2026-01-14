@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "qwen": {
+      "command": "node",
+      "args": ["/Users/aid/workspace/qwen-api-mcp/dist/index.js"],
+      "env": {
+        "QWEN_API_TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImI4NDY0NDk5LWQyOWItNDEwNy1hZWRjLTY1ZmM5NTMwMzkwNyIsImxhc3RfcGFzc3dvcmRfY2hhbmdlIjoxNzY3OTU3MDM1LCJleHAiOjE3Njg5ODE3OTR9.jarT45lZ3nQbUVA9R8AthknxdAgVZh45GhYf31VDKPQ"
+      }
+    }
+  }
+}
